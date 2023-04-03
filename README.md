@@ -12,3 +12,7 @@ aspects of group membership.
 Over time, normalization data will be included for all images, so that
 researchers can account for baseline perceptions of the base image used in
 their work.
+
+The current images consist of 90 identities (per category) from the CFD. The
+biracial faces consist of 90 Black and 90 White individuals, averaged together
+using WebMorpher software.
