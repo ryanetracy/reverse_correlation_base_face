@@ -15,4 +15,7 @@ their work.
 
 The current images consist of 90 identities (per category) from the CFD. The
 biracial faces consist of 90 Black and 90 White individuals, averaged together
-using WebMorpher software.
+using WebMorph software (DeBruine, 2021).
+
+Anyone is free to use these faces, though I request that you cite accordingly
+(Tracy, 2023).
